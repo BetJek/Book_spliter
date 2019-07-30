@@ -1,0 +1,7 @@
+.vscode/
+envir/
+google_1.py
+*.txt
+*.xlsx
+*.csv
+__pycache__/
