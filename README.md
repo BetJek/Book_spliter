@@ -1,2 +1,2 @@
 # Book_spliter
-breaks books into words, translates words and gives them out on request.
+Разбиавет текст книги на слова, переводит их и выдает по запросу
